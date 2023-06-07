@@ -1,0 +1,3814 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="https://github.com/geneontology/protege-tutorial/blob/master/basic-subclass/chromosome-parts.owl/2023/1/diploma_project"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="https://github.com/geneontology/protege-tutorial/blob/master/basic-subclass/chromosome-parts.owl/2023/1/diploma_project">
+    <Prefix name="" IRI="https://github.com/geneontology/protege-tutorial/blob/master/basic-subclass/chromosome-parts.owl/2023/1/diploma_project#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Diploma Project</Literal>
+    </Annotation>
+    <Declaration>
+        <NamedIndividual IRI="#Farm_management_information_systems"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#INFORMATION_TECHNOLOGY"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Transport_Layer_Security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Agricultural_systems_simulation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Digital_image_processing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#User_behavior_analysis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Risk_assessment"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Semiconductor_devices"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#System_modeling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Next_generation_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Autonomous_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Genetic_algorithms"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cybersecurity_policy_and_law"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Routing_protocols"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Fixed_wireless_access"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Coding_and_decoding_of_messages"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Forensic_analysis_of_digital_devices"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hardware_root_of_trust"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Advanced_modulation_techniques"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Student"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cheminformatics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Digital_modulation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Radio_engineering_information_transmission_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Marketing_analysis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Secure_coding"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#System_analysis_and_design"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Digital_communication_theory"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Greenhouse_automation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Wi-Fi_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Electromagnetics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Digital_transmission_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Acoustics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Radio_propagation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_analysis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Security_awareness_training"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Market_segmentation"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasMagazines"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Transistors"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Renewable_energy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_performance_analysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Biocomputing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Analog_and_digital_communication_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Soil_moisture_sensors"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COMMUNICATIONS_AND_COMMUNICATION_TECHNOLOGIES"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Femtocell_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Scrum"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Computer_graphics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Business_intelligence_(BI)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Ethical_hacking"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasBooks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_loss_prevention"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#magazines"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Topology"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Lean_methodologies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_analysis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Machine_learning_in_agriculture"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Source_code_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cyber-physical_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Distributed_computing_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Natural_language_processing_technologies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Agricultural_production_systems_modeling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_virtualization"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Enterprise_architecture"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Biotechnology_in_agriculture"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasMagazines"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Computational_genomics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Performance_testing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#WiMAX_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Clustering"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Threat_intelligence"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_structures"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Signal_processing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Knowledge_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#VLSI_design"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Audio_processing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Business_intelligence"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Content_delivery_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Policy_development_and_implementation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Power_control"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Multiple_access_techniques"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Geographic_information_systems_(GIS)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hardware_security_modules_(HSMs)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Image_processing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Spectrum_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Computer_architecture"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Professor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_segmentation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_traffic_filtering"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Web_application_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Systems_engineering"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Mobile_communication_systems"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Data_science"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Software_architecture"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Botnet_detection"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Audio_and_speech_processing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Spread_spectrum_communication"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_communication"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Collections"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Insider_threat_detection"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cloud_computing_technologies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Signal_processing_algorithms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Software_Engineering"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Mobile_computing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Transmitter_and_receiver_design"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Radio_access_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Water_management_technology"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_quality_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Enterprise_content_management_(ECM)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Extreme_programming_(XP)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#FPGAs_(Field-Programmable_Gate_Arrays)"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#theme_of_work"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_quality"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Transmission_line_theory"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Madina_Ipalakova"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Quality_assurance_tester"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_architecture"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_privacy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Key_fobs"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_encryption"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Radio_frequency_engineering"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cybersecurity_governance"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Predictive_modeling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Agricultural_machine_vision"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#studentID"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Electromagnetic_compatibility"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hardware_means_of_information_protection"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IT_security_specialist"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasArticle"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasBooks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#DNS_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Livestock_management_software"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Compilers"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Embedded_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Multimedia_communication_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Optoelectronics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_preprocessing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Agile_software_development"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_security_protocols"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Analog_electronics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Channel_coding"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_mining"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Computational_imaging"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Multimedia_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Telephony"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Biological_databases"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Farm_management_software"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Engineering_mathematics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Software_testing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Malware_prevention"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Master"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Database_management_systems_(DBMS)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Radio_wave_propagation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Code_review"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cybersecurity"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Internet_of_things_(IoT)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Broadband_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Malware_analysis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Transmission_lines"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Anti-virus_software"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Agricultural_analytics"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasArticle"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Pair_programming"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Big_data_architecture"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Email_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Customer_relationship_management_(CRM)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Manual_testing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Big_data_analytics"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#school"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Telecommunication_systems_engineering"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Discrete_mathematics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Linear_algebra"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#VPN_(Virtual_Private_Networks)"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IT"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Solid_state_electronics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Tolganay_Chinibayeva_Temirbolatkyzy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Digital_forensics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cellular_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Satellite_communications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Denial-of-service_attacks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Calculus"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Business_process_modeling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Integrated_circuits"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Web_development_frameworks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Database_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Security_operations_center_(SOC)_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Modulation_theory"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Telecommunication_systems_and_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Human-computer_interaction_(HCI)_technologies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Firewall_technology"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#work_place"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#DNA_sequence_analysis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Control_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cloud_computing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Козина_Людмила_Александровна"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Computer_technology_and_software"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#LTE_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Quality_of_service_(QoS)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Authentication_technologies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Natural_language_processing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Evolutionary_biology"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#In-line_encryption_hardware"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Traffic_engineering"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Business_process_re-engineering"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Filters"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Disaster_recovery"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Complex_analysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Computer_Science"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_planning"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Probability_theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Big_Data_Analytics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Antenna_design"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bioinformatics_algorithms"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Microservices_architecture"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_address_translation_(NAT)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Authentication"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Market_research"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Statistics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Smart_manufacturing"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#professorID"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_encryption_hardware"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cryptography"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Financial_analysis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Version_control"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Load_testing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Parallel_computing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Software_security_testing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Social_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Grey_box_testing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Computational_toxicology"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Information_theory"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Fiber_optic_communication"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Ad_hoc_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#KAZGU"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Distributed_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Biometric_authentication"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Identity_and_access_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Competitive_analysis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Digital_signal_processing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hardware-based_malware_protection"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#requency_division_multiplexing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Automated_testing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Epigenetics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Works"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IT_strategy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Drug_design"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Security_incident_response_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Electronic_circuits"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Security_policies_and_standards"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#books"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Wireless_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Machine_learning"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_integration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ransport_Layer_Security_(TLS)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Vertical_farming"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bioinformatics_in_agriculture"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Adversarial_machine_learning"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Microwave_devices"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Computer_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Penetration_testing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cognitive_radio_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Access_control"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Agrokibernetics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Numerical_analysis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Metrics_development"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Random_processes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cyber_crime_investigation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Agricultural_data_science"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Mobile_application_development"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#articles"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Microwave_engineering"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasDegree"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Controlled_environment_agriculture"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Embedded_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Satellite_communication_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Agrometeorology"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_processing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Partial_differential_equations"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Artificial_intelligence_programming"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Application_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#PHD"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IP_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Differential_equations"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Artificial_intelligence"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Robotics_and_automation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Decision_support_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Computational_drug_discovery"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Random_forests"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Virtual_private_network_(VPN)_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Refactoring"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Sensor_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Black_box_testing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Energy_harvesting"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Gene_expression_analysis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Time_division_multiplexing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Degree"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_traffic_monitoring"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#university"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Mechatronics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_forensics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Mobile_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IITU"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Computer_vision"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Business_process_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Software_engineering_methodologies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hardware_firewalls"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Wave_propagation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Power_electronics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Electronics_and_Telecommunications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Physical_security_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Agile_methodology"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Defect_tracking"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Phishing_attacks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Microcontrollers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HelpingClass"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Quality_assurance"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Dimensionality_reduction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_collection"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Object-oriented_programming_languages"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Farm-to-table_traceability"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Circuit_simulation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Honeypots"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#INFORMATION_SECURITY"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Network_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Smart_farming_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Mobile_ad_hoc_networks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Engineering_Mathematics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Disaster_recovery_planning"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Agile_methodologies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Business_rules_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Noise_theory"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Functional_testing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#DevOps_technologies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IT_security_specialist"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Internet_of_Things_(IoT)_technologies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Incident_response_planning"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#reports"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Transport_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_analysis_tools"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#INFORMATION_SECURITY"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hardware-based_authentication"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Food_traceability_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Security_testing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#WCDMA_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Privacy-preserving_data_mining"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PHD"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Remote_sensing_in_agriculture"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Deep_learning"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Agroecosystems_modeling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Wireless_communications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Crop_yield_forecasting"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Microwave_circuits"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Computational_systems_biology"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Electronics_and_telecommunications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Peer-to-peer_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Security_information_and_event_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cryptographic_hardware"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Design_patterns"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Error_control_coding"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Statistical_signal_processing"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#date_of_defence"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_encryption"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Radio_frequency_identification"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_traffic_analysis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Frequency_modulation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Supply_chain_management_for_agriculture."/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cybersecurity_technologies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Agricultural_robotics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Intrusion_detection_and_prevention_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ASIC_Design"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#User_experience_design_(UX_design)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_mining_in_agriculture"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Business_analysis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Nurdaulet"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Wireless_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Master"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Real-time_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Crop_modeling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#SDN_(Software_Defined_Networks)"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Reports"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Agrochemical_modeling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Weather_forecasting_in_agriculture"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_performance_evaluation"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasWorks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Incident_response"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Computational_neuroscience"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Robotics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hydroponic_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Image_and_video_coding"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Database_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Stochastic_processes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Mobile_device_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Smart_grids"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Information_security_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Fourier_analysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Articles"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Electronic_devices"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Agricultural_sensors"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Networked_control_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#DevOps"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#People"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Computational_biology"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Blockchain"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Ethernet_networks"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#dateOfBirth"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Access_control_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Instrumentation_and_measurements"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Machine_learning_frameworks_and_libraries"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#COMMUNICATIONS_AND_COMMUNICATION_TECHNOLOGIES"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Gap_analysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Information_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Decision_analysis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Vulnerability_assessment"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Computer_graphics_programming"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Electromagnetic_wave_propagation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Television_engineering"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Anti-counterfeiting_technologies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Channel_estimation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Irrigation_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Digital_agriculture"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#GSM_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Optical_communication_systems"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Computer_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Radio_network_planning"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cyberphysical_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#collections"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#worksIn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Communication_protocols"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Zero-day_exploits"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Applied_mathematics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Comparative_genomics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Resource_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Error_detection_and_correction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_security_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Access_network"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Acceptance_testing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Functional_genomics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Satellite_networks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Software-defined_radio"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Information_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Business_modeling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_lake"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cyber_forensics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Wireless_communication_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Дузбаев_Нуржан_Токкужаевич"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Automatic_control"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Botnet_prevention"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Telecommunications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Optical_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Azamat"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cluster_computing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_design_and_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Remote_access_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Mesh_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_modeling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Neural_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Computer_networks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cloud_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Coding_theory"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Information_storage_and_retrieval"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Social_engineering_attacks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Agricultural_Internet_of_Things_(IoT)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Robotics_in_agriculture"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Data_governance"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Environmental_monitoring"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Soil_analysis_technology"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Automatic_speech_recognition"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Distributed_control_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#VoIP_(Voice_over_Internet_Protocol)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Optics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Gene_ontology"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hardware-based_encryption"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Endpoint_security"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hardware-based_key_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Computational_proteomics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Distributed_denial-of-service_attacks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Biomolecular_modeling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Nanoelectronics"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#countsOfScientificWorks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Digital_electronics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Quality_control_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Radar_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Regression_testing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Decision_support_systems_for_precision_irrigation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Fiber_optics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Communication_systems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Ransomware_detection_and_prevention"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Drone_technology_in_agriculture"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Aquaculture_automation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Precision_agriculture"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#INFORMATION_TECHNOLOGY"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Books"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Network_coding"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IT_risk_management"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Agricultural_weather_modeling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Industrial_control_systems"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Magazines"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Smart_cities"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="#Books"/>
+        <Class IRI="#Magazines"/>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="#Agrokibernetics"/>
+        <Class IRI="#INFORMATION_TECHNOLOGY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Articles"/>
+        <Class IRI="#Works"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Big_Data_Analytics"/>
+        <Class IRI="#INFORMATION_TECHNOLOGY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Biocomputing"/>
+        <Class IRI="#INFORMATION_TECHNOLOGY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Books"/>
+        <Class IRI="#Works"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Business_analysis"/>
+        <Class IRI="#INFORMATION_TECHNOLOGY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#COMMUNICATIONS_AND_COMMUNICATION_TECHNOLOGIES"/>
+        <Class IRI="#IT"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Collections"/>
+        <Class IRI="#Works"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Computer_Science"/>
+        <Class IRI="#INFORMATION_TECHNOLOGY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Computer_security"/>
+        <Class IRI="#INFORMATION_SECURITY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Computer_technology_and_software"/>
+        <Class IRI="#INFORMATION_TECHNOLOGY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cyberphysical_systems"/>
+        <Class IRI="#INFORMATION_TECHNOLOGY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Data_science"/>
+        <Class IRI="#INFORMATION_TECHNOLOGY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Degree"/>
+        <Class IRI="#HelpingClass"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <Class IRI="#COMMUNICATIONS_AND_COMMUNICATION_TECHNOLOGIES"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Engineering_Mathematics"/>
+        <Class IRI="#INFORMATION_TECHNOLOGY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <Class IRI="#INFORMATION_SECURITY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#INFORMATION_SECURITY"/>
+        <Class IRI="#IT"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#INFORMATION_TECHNOLOGY"/>
+        <Class IRI="#IT"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IT_security_specialist"/>
+        <Class IRI="#INFORMATION_SECURITY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Information_systems"/>
+        <Class IRI="#INFORMATION_TECHNOLOGY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Magazines"/>
+        <Class IRI="#Works"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Master"/>
+        <Class IRI="#Degree"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Network_security"/>
+        <Class IRI="#INFORMATION_SECURITY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PHD"/>
+        <Class IRI="#Degree"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Professor"/>
+        <Class IRI="#People"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Quality_assurance_tester"/>
+        <Class IRI="#INFORMATION_TECHNOLOGY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <Class IRI="#COMMUNICATIONS_AND_COMMUNICATION_TECHNOLOGIES"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Reports"/>
+        <Class IRI="#Works"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Software_Engineering"/>
+        <Class IRI="#INFORMATION_TECHNOLOGY"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Student"/>
+        <Class IRI="#People"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <Class IRI="#COMMUNICATIONS_AND_COMMUNICATION_TECHNOLOGIES"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Works"/>
+        <Class IRI="#HelpingClass"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#work_place"/>
+        <Class IRI="#Professor"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#ASIC_Design"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Quality_assurance_tester"/>
+        <NamedIndividual IRI="#Acceptance_testing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Access_control"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <NamedIndividual IRI="#Access_control_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Access_network"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Acoustics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Ad_hoc_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Advanced_modulation_techniques"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Adversarial_machine_learning"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#Agile_methodologies"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#Agile_methodology"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#Agile_software_development"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Agricultural_analytics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Agricultural_data_science"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Agricultural_machine_vision"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Agricultural_production_systems_modeling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Agricultural_robotics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Agricultural_sensors"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Agricultural_systems_simulation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Agricultural_weather_modeling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Agrochemical_modeling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Agroecosystems_modeling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Agrometeorology"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Analog_and_digital_communication_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Analog_electronics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Antenna_design"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <NamedIndividual IRI="#Anti-counterfeiting_technologies"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#IT_security_specialist"/>
+        <NamedIndividual IRI="#Anti-virus_software"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Application_security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Engineering_Mathematics"/>
+        <NamedIndividual IRI="#Applied_mathematics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Aquaculture_automation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Big_Data_Analytics"/>
+        <NamedIndividual IRI="#Artificial_intelligence"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#Artificial_intelligence_programming"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Audio_and_speech_processing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Audio_processing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Authentication"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#IT_security_specialist"/>
+        <NamedIndividual IRI="#Authentication_technologies"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Quality_assurance_tester"/>
+        <NamedIndividual IRI="#Automated_testing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Automatic_control"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Automatic_speech_recognition"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cyberphysical_systems"/>
+        <NamedIndividual IRI="#Autonomous_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Student"/>
+        <NamedIndividual IRI="#Azamat"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Data_science"/>
+        <NamedIndividual IRI="#Big_data_analytics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Big_Data_Analytics"/>
+        <NamedIndividual IRI="#Big_data_architecture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Bioinformatics_algorithms"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Bioinformatics_in_agriculture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Biological_databases"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <NamedIndividual IRI="#Biometric_authentication"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Biomolecular_modeling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Biotechnology_in_agriculture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Quality_assurance_tester"/>
+        <NamedIndividual IRI="#Black_box_testing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_Science"/>
+        <NamedIndividual IRI="#Blockchain"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Botnet_detection"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Botnet_prevention"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Broadband_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Big_Data_Analytics"/>
+        <NamedIndividual IRI="#Business_intelligence"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#Business_modeling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#Business_process_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Information_systems"/>
+        <NamedIndividual IRI="#Business_process_modeling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#Business_process_re-engineering"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#Business_rules_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#IT"/>
+        <NamedIndividual IRI="#COMMUNICATIONS_AND_COMMUNICATION_TECHNOLOGIES"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Engineering_Mathematics"/>
+        <NamedIndividual IRI="#Calculus"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Cellular_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Channel_coding"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Channel_estimation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Cheminformatics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Circuit_simulation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Cloud_computing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#Cloud_computing_technologies"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Cloud_security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Big_Data_Analytics"/>
+        <NamedIndividual IRI="#Cluster_computing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Data_science"/>
+        <NamedIndividual IRI="#Clustering"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#Code_review"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Coding_and_decoding_of_messages"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Coding_theory"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Cognitive_radio_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Communication_protocols"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Communication_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Comparative_genomics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#Competitive_analysis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_Science"/>
+        <NamedIndividual IRI="#Compilers"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Engineering_Mathematics"/>
+        <NamedIndividual IRI="#Complex_analysis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Computational_biology"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Computational_drug_discovery"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Computational_genomics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Computational_imaging"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Computational_neuroscience"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Computational_proteomics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Computational_systems_biology"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Computational_toxicology"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_Science"/>
+        <NamedIndividual IRI="#Computer_architecture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_Science"/>
+        <NamedIndividual IRI="#Computer_graphics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#Computer_graphics_programming"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Computer_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#INFORMATION_SECURITY"/>
+        <NamedIndividual IRI="#Computer_security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_Science"/>
+        <NamedIndividual IRI="#Computer_vision"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Content_delivery_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cyberphysical_systems"/>
+        <NamedIndividual IRI="#Control_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Controlled_environment_agriculture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Crop_modeling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Crop_yield_forecasting"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <NamedIndividual IRI="#Cryptographic_hardware"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Cryptography"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cyberphysical_systems"/>
+        <NamedIndividual IRI="#Cyber-physical_security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Cyber_crime_investigation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Cyber_forensics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_Science"/>
+        <NamedIndividual IRI="#Cybersecurity"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#IT_security_specialist"/>
+        <NamedIndividual IRI="#Cybersecurity_governance"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Cybersecurity_policy_and_law"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#Cybersecurity_technologies"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#DNA_sequence_analysis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#DNS_security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#Data_analysis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Big_Data_Analytics"/>
+        <NamedIndividual IRI="#Data_analysis_tools"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Big_Data_Analytics"/>
+        <NamedIndividual IRI="#Data_collection"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Data_communication"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#IT_security_specialist"/>
+        <NamedIndividual IRI="#Data_encryption"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <NamedIndividual IRI="#Data_encryption_hardware"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Big_Data_Analytics"/>
+        <NamedIndividual IRI="#Data_governance"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Big_Data_Analytics"/>
+        <NamedIndividual IRI="#Data_integration"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Big_Data_Analytics"/>
+        <NamedIndividual IRI="#Data_lake"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#IT_security_specialist"/>
+        <NamedIndividual IRI="#Data_loss_prevention"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Big_Data_Analytics"/>
+        <NamedIndividual IRI="#Data_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Big_Data_Analytics"/>
+        <NamedIndividual IRI="#Data_mining"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Data_mining_in_agriculture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Big_Data_Analytics"/>
+        <NamedIndividual IRI="#Data_modeling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Data_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Data_science"/>
+        <NamedIndividual IRI="#Data_preprocessing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Data_privacy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Big_Data_Analytics"/>
+        <NamedIndividual IRI="#Data_processing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Big_Data_Analytics"/>
+        <NamedIndividual IRI="#Data_quality"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Information_systems"/>
+        <NamedIndividual IRI="#Data_quality_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_Science"/>
+        <NamedIndividual IRI="#Data_structures"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Database_security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_Science"/>
+        <NamedIndividual IRI="#Database_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#Decision_analysis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Decision_support_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Decision_support_systems_for_precision_irrigation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Data_science"/>
+        <NamedIndividual IRI="#Deep_learning"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Quality_assurance_tester"/>
+        <NamedIndividual IRI="#Defect_tracking"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Denial-of-service_attacks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#Design_patterns"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#DevOps"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#DevOps_technologies"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Engineering_Mathematics"/>
+        <NamedIndividual IRI="#Differential_equations"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Digital_agriculture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Digital_communication_theory"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Digital_electronics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Digital_forensics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Digital_image_processing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Digital_modulation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Digital_signal_processing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Digital_transmission_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Data_science"/>
+        <NamedIndividual IRI="#Dimensionality_reduction"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Disaster_recovery"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#IT_security_specialist"/>
+        <NamedIndividual IRI="#Disaster_recovery_planning"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Engineering_Mathematics"/>
+        <NamedIndividual IRI="#Discrete_mathematics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#Distributed_computing_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cyberphysical_systems"/>
+        <NamedIndividual IRI="#Distributed_control_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Distributed_denial-of-service_attacks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Distributed_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Drone_technology_in_agriculture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Drug_design"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Electromagnetic_compatibility"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Electromagnetic_wave_propagation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Electromagnetics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Electronic_circuits"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Electronic_devices"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#COMMUNICATIONS_AND_COMMUNICATION_TECHNOLOGIES"/>
+        <NamedIndividual IRI="#Electronics_and_Telecommunications"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Email_security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <NamedIndividual IRI="#Embedded_security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Embedded_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Endpoint_security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Energy_harvesting"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Engineering_mathematics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#Enterprise_architecture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Environmental_monitoring"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Epigenetics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Error_control_coding"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Error_detection_and_correction"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Ethernet_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Ethical_hacking"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Evolutionary_biology"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Farm-to-table_traceability"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Farm_management_information_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Farm_management_software"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Femtocell_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Fiber_optic_communication"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Fiber_optics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Filters"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#Financial_analysis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Firewall_technology"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Fixed_wireless_access"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Food_traceability_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Forensic_analysis_of_digital_devices"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Engineering_Mathematics"/>
+        <NamedIndividual IRI="#Fourier_analysis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Frequency_modulation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Functional_genomics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Quality_assurance_tester"/>
+        <NamedIndividual IRI="#Functional_testing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#GSM_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#Gap_analysis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Gene_expression_analysis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Gene_ontology"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Biocomputing"/>
+        <NamedIndividual IRI="#Genetic_algorithms"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Greenhouse_automation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Quality_assurance_tester"/>
+        <NamedIndividual IRI="#Grey_box_testing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <NamedIndividual IRI="#Hardware-based_authentication"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <NamedIndividual IRI="#Hardware-based_encryption"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <NamedIndividual IRI="#Hardware-based_key_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <NamedIndividual IRI="#Hardware-based_malware_protection"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <NamedIndividual IRI="#Hardware_firewalls"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#INFORMATION_SECURITY"/>
+        <NamedIndividual IRI="#Hardware_means_of_information_protection"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <NamedIndividual IRI="#Hardware_root_of_trust"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Honeypots"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Hydroponic_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#work_place"/>
+        <NamedIndividual IRI="#IITU"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#IT"/>
+        <NamedIndividual IRI="#INFORMATION_SECURITY"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#IT"/>
+        <NamedIndividual IRI="#INFORMATION_TECHNOLOGY"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#IP_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#IT_security_specialist"/>
+        <NamedIndividual IRI="#IT_risk_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#INFORMATION_SECURITY"/>
+        <NamedIndividual IRI="#IT_security_specialist"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#IT_strategy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#IT_security_specialist"/>
+        <NamedIndividual IRI="#Identity_and_access_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Image_and_video_coding"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Image_processing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <NamedIndividual IRI="#In-line_encryption_hardware"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Incident_response"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#IT_security_specialist"/>
+        <NamedIndividual IRI="#Incident_response_planning"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cyberphysical_systems"/>
+        <NamedIndividual IRI="#Industrial_control_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Information_security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Information_security_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Information_systems"/>
+        <NamedIndividual IRI="#Information_storage_and_retrieval"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Information_theory"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Insider_threat_detection"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Instrumentation_and_measurements"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Integrated_circuits"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Intrusion_detection_and_prevention_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Irrigation_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#work_place"/>
+        <NamedIndividual IRI="#KAZGU"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <NamedIndividual IRI="#Key_fobs"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Information_systems"/>
+        <NamedIndividual IRI="#Knowledge_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#LTE_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#Lean_methodologies"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Engineering_Mathematics"/>
+        <NamedIndividual IRI="#Linear_algebra"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Livestock_management_software"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Quality_assurance_tester"/>
+        <NamedIndividual IRI="#Load_testing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Data_science"/>
+        <NamedIndividual IRI="#Machine_learning"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#Machine_learning_frameworks_and_libraries"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Machine_learning_in_agriculture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Professor"/>
+        <NamedIndividual IRI="#Madina_Ipalakova"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Malware_analysis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Malware_prevention"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Quality_assurance_tester"/>
+        <NamedIndividual IRI="#Manual_testing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#Market_research"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#Market_segmentation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#Marketing_analysis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Degree"/>
+        <NamedIndividual IRI="#Master"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cyberphysical_systems"/>
+        <NamedIndividual IRI="#Mechatronics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Mesh_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Business_analysis"/>
+        <NamedIndividual IRI="#Metrics_development"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Microcontrollers"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#Microservices_architecture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Microwave_circuits"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Microwave_devices"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Microwave_engineering"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Mobile_ad_hoc_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#Mobile_application_development"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Mobile_communication_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_Science"/>
+        <NamedIndividual IRI="#Mobile_computing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Mobile_device_security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Mobile_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Modulation_theory"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Multimedia_communication_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Multimedia_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Multiple_access_techniques"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Nanoelectronics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_Science"/>
+        <NamedIndividual IRI="#Natural_language_processing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#Natural_language_processing_technologies"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Network_analysis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Network_architecture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Network_coding"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Network_design_and_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Network_security"/>
+        <NamedIndividual IRI="#Network_encryption"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Network_security"/>
+        <NamedIndividual IRI="#Network_forensics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Network_performance_analysis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Network_performance_evaluation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Network_planning"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#INFORMATION_SECURITY"/>
+        <NamedIndividual IRI="#Network_security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Network_security"/>
+        <NamedIndividual IRI="#Network_security_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Network_security"/>
+        <NamedIndividual IRI="#Network_security_protocols"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Network_security"/>
+        <NamedIndividual IRI="#Network_segmentation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Network_security"/>
+        <NamedIndividual IRI="#Network_traffic_analysis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Network_security"/>
+        <NamedIndividual IRI="#Network_traffic_filtering"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Network_security"/>
+        <NamedIndividual IRI="#Network_traffic_monitoring"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Network_virtualization"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cyberphysical_systems"/>
+        <NamedIndividual IRI="#Networked_control_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Data_science"/>
+        <NamedIndividual IRI="#Neural_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Next_generation_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Noise_theory"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Engineering_Mathematics"/>
+        <NamedIndividual IRI="#Numerical_analysis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Student"/>
+        <NamedIndividual IRI="#Nurdaulet"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#Object-oriented_programming_languages"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Optical_communication_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Optical_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Optics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Optoelectronics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Degree"/>
+        <NamedIndividual IRI="#PHD"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#Pair_programming"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_Science"/>
+        <NamedIndividual IRI="#Parallel_computing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Engineering_Mathematics"/>
+        <NamedIndividual IRI="#Partial_differential_equations"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Peer-to-peer_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Penetration_testing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Quality_assurance_tester"/>
+        <NamedIndividual IRI="#Performance_testing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Phishing_attacks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#IT_security_specialist"/>
+        <NamedIndividual IRI="#Physical_security_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Network_security"/>
+        <NamedIndividual IRI="#Policy_development_and_implementation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Power_control"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Power_electronics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Precision_agriculture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Predictive_modeling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Privacy-preserving_data_mining"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Engineering_Mathematics"/>
+        <NamedIndividual IRI="#Probability_theory"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#Quality_assurance"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Quality_control_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Radar_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Radio_access_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#COMMUNICATIONS_AND_COMMUNICATION_TECHNOLOGIES"/>
+        <NamedIndividual IRI="#Radio_engineering_information_transmission_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Radio_frequency_engineering"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Radio_frequency_identification"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Radio_network_planning"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Radio_propagation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Radio_wave_propagation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Data_science"/>
+        <NamedIndividual IRI="#Random_forests"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Engineering_Mathematics"/>
+        <NamedIndividual IRI="#Random_processes"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Ransomware_detection_and_prevention"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cyberphysical_systems"/>
+        <NamedIndividual IRI="#Real-time_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#Refactoring"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Quality_assurance_tester"/>
+        <NamedIndividual IRI="#Regression_testing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Network_security"/>
+        <NamedIndividual IRI="#Remote_access_security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Remote_sensing_in_agriculture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Renewable_energy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Resource_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Risk_assessment"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Robotics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cyberphysical_systems"/>
+        <NamedIndividual IRI="#Robotics_and_automation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Robotics_in_agriculture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Routing_protocols"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Satellite_communication_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Satellite_communications"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Satellite_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#Scrum"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Secure_coding"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Security_awareness_training"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#IT_security_specialist"/>
+        <NamedIndividual IRI="#Security_incident_response_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Security_information_and_event_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Security_policies_and_standards"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Quality_assurance_tester"/>
+        <NamedIndividual IRI="#Security_testing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Semiconductor_devices"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Sensor_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Signal_processing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Signal_processing_algorithms"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cyberphysical_systems"/>
+        <NamedIndividual IRI="#Smart_cities"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Smart_farming_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Smart_grids"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cyberphysical_systems"/>
+        <NamedIndividual IRI="#Smart_manufacturing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Social_engineering_attacks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Social_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Software-defined_radio"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#Software_architecture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#Software_engineering_methodologies"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Software_security_testing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#Software_testing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Soil_analysis_technology"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Soil_moisture_sensors"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Solid_state_electronics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#Source_code_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Spectrum_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Spread_spectrum_communication"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Statistical_signal_processing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Engineering_Mathematics"/>
+        <NamedIndividual IRI="#Statistics"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Stochastic_processes"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Supply_chain_management_for_agriculture."/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Information_systems"/>
+        <NamedIndividual IRI="#System_analysis_and_design"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#System_modeling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Systems_engineering"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#COMMUNICATIONS_AND_COMMUNICATION_TECHNOLOGIES"/>
+        <NamedIndividual IRI="#Telecommunication_systems_and_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Telecommunication_systems_engineering"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Telecommunications"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Telephony"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Television_engineering"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Threat_intelligence"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Time_division_multiplexing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Professor"/>
+        <NamedIndividual IRI="#Tolganay_Chinibayeva_Temirbolatkyzy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Engineering_Mathematics"/>
+        <NamedIndividual IRI="#Topology"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Traffic_engineering"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Transistors"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Transmission_line_theory"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Transmission_lines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Transmitter_and_receiver_design"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Transport_Layer_Security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Transport_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#User_behavior_analysis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#VLSI_design"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#Version_control"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Vertical_farming"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Vulnerability_assessment"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#WCDMA_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Water_management_technology"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Wave_propagation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Weather_forecasting_in_agriculture"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Web_application_security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#Web_development_frameworks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Wi-Fi_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#WiMAX_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#Wireless_communication_systems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Electronics_and_telecommunications"/>
+        <NamedIndividual IRI="#Wireless_communications"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Wireless_networks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Wireless_security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_security"/>
+        <NamedIndividual IRI="#Zero-day_exploits"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Works"/>
+        <NamedIndividual IRI="#articles"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Works"/>
+        <NamedIndividual IRI="#books"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Works"/>
+        <NamedIndividual IRI="#collections"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Works"/>
+        <NamedIndividual IRI="#magazines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Works"/>
+        <NamedIndividual IRI="#reports"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Radio_engineering_information_transmission_systems"/>
+        <NamedIndividual IRI="#requency_division_multiplexing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Professor"/>
+        <NamedIndividual IRI="#Дузбаев_Нуржан_Токкужаевич"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Professor"/>
+        <NamedIndividual IRI="#Козина_Людмила_Александровна"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Agricultural_Internet_of_Things_(IoT)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Information_systems"/>
+        <NamedIndividual IRI="#Business_intelligence_(BI)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Information_systems"/>
+        <NamedIndividual IRI="#Customer_relationship_management_(CRM)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#Database_management_systems_(DBMS)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Information_systems"/>
+        <NamedIndividual IRI="#Enterprise_content_management_(ECM)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#Extreme_programming_(XP)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <NamedIndividual IRI="#FPGAs_(Field-Programmable_Gate_Arrays)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agrokibernetics"/>
+        <NamedIndividual IRI="#Geographic_information_systems_(GIS)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hardware_means_of_information_protection"/>
+        <NamedIndividual IRI="#Hardware_security_modules_(HSMs)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#Human-computer_interaction_(HCI)_technologies"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer_technology_and_software"/>
+        <NamedIndividual IRI="#Internet_of_Things_(IoT)_technologies"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Internet_of_things_(IoT)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Network_security"/>
+        <NamedIndividual IRI="#Network_address_translation_(NAT)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#Quality_of_service_(QoS)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#SDN_(Software_Defined_Networks)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#IT_security_specialist"/>
+        <NamedIndividual IRI="#Security_operations_center_(SOC)_management"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Software_Engineering"/>
+        <NamedIndividual IRI="#User_experience_design_(UX_design)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#VPN_(Virtual_Private_Networks)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Network_security"/>
+        <NamedIndividual IRI="#Virtual_private_network_(VPN)_security"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Telecommunication_systems_and_networks"/>
+        <NamedIndividual IRI="#VoIP_(Voice_over_Internet_Protocol)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Network_security"/>
+        <NamedIndividual IRI="#ransport_Layer_Security_(TLS)"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasDegree"/>
+        <NamedIndividual IRI="#Azamat"/>
+        <NamedIndividual IRI="#PHD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasDegree"/>
+        <NamedIndividual IRI="#Madina_Ipalakova"/>
+        <NamedIndividual IRI="#PHD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasWorks"/>
+        <NamedIndividual IRI="#Madina_Ipalakova"/>
+        <NamedIndividual IRI="#articles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasWorks"/>
+        <NamedIndividual IRI="#Madina_Ipalakova"/>
+        <NamedIndividual IRI="#books"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#worksIn"/>
+        <NamedIndividual IRI="#Madina_Ipalakova"/>
+        <NamedIndividual IRI="#IITU"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasDegree"/>
+        <NamedIndividual IRI="#Nurdaulet"/>
+        <NamedIndividual IRI="#Master"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasDegree"/>
+        <NamedIndividual IRI="#Tolganay_Chinibayeva_Temirbolatkyzy"/>
+        <NamedIndividual IRI="#PHD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasWorks"/>
+        <NamedIndividual IRI="#Tolganay_Chinibayeva_Temirbolatkyzy"/>
+        <NamedIndividual IRI="#articles"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#worksIn"/>
+        <NamedIndividual IRI="#Tolganay_Chinibayeva_Temirbolatkyzy"/>
+        <NamedIndividual IRI="#IITU"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasDegree"/>
+        <NamedIndividual IRI="#Дузбаев_Нуржан_Токкужаевич"/>
+        <NamedIndividual IRI="#PHD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasWorks"/>
+        <NamedIndividual IRI="#Дузбаев_Нуржан_Токкужаевич"/>
+        <NamedIndividual IRI="#KAZGU"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#hasWorks"/>
+        <NamedIndividual IRI="#Козина_Людмила_Александровна"/>
+        <NamedIndividual IRI="#PHD"/>
+    </ObjectPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#date_of_defence"/>
+        <NamedIndividual IRI="#Azamat"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2021-01-01T09:00:00</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#countsOfScientificWorks"/>
+        <NamedIndividual IRI="#Madina_Ipalakova"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">5</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasArticle"/>
+        <NamedIndividual IRI="#Madina_Ipalakova"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">COVID-19 Kazakhstani university: experience of online training in quarantine, 2020</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasArticle"/>
+        <NamedIndividual IRI="#Madina_Ipalakova"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Development of a mobile application for studying physics using AR technology, 2019</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasArticle"/>
+        <NamedIndividual IRI="#Madina_Ipalakova"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Development of the cross-platform virtual laboratory on physics,
+2017</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasArticle"/>
+        <NamedIndividual IRI="#Madina_Ipalakova"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Integration of IITU in the field of application of space technologies in telecommunications,
+2019</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasBooks"/>
+        <NamedIndividual IRI="#Madina_Ipalakova"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Прогнозирование загрязнения атмосферы</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#professorID"/>
+        <NamedIndividual IRI="#Madina_Ipalakova"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">2</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#school"/>
+        <NamedIndividual IRI="#Madina_Ipalakova"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">25 школа</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#university"/>
+        <NamedIndividual IRI="#Madina_Ipalakova"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">The University of Manchester(Great Britain)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#university"/>
+        <NamedIndividual IRI="#Madina_Ipalakova"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ВКГТУ им. Д. Серикбаева</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#countsOfScientificWorks"/>
+        <NamedIndividual IRI="#Tolganay_Chinibayeva_Temirbolatkyzy"/>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">5</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasArticle"/>
+        <NamedIndividual IRI="#Tolganay_Chinibayeva_Temirbolatkyzy"/>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Analysis and Localization of Performance Degradation Incidents of Distributed Computer Systems Case Study of Distributed Computer System Operational Capacity</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasArticle"/>
+        <NamedIndividual IRI="#Tolganay_Chinibayeva_Temirbolatkyzy"/>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Development of Practical Tasks in Physics with Elements of Augmented Reality for Secondary Educational Institutions</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasArticle"/>
+        <NamedIndividual IRI="#Tolganay_Chinibayeva_Temirbolatkyzy"/>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Integrating of Data Using the Hadoop and R</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasArticle"/>
+        <NamedIndividual IRI="#Tolganay_Chinibayeva_Temirbolatkyzy"/>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Recursive decomposition as a method for integrating heterogeneous data sources</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasArticle"/>
+        <NamedIndividual IRI="#Tolganay_Chinibayeva_Temirbolatkyzy"/>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Technology of integration of diverse databases on the example of medical records</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#university"/>
+        <NamedIndividual IRI="#Tolganay_Chinibayeva_Temirbolatkyzy"/>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ВКГТУ им Д. Серикбаева</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#university"/>
+        <NamedIndividual IRI="#Tolganay_Chinibayeva_Temirbolatkyzy"/>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">КазНТУ им К.Сатпаева,</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#university"/>
+        <NamedIndividual IRI="#Tolganay_Chinibayeva_Temirbolatkyzy"/>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">МУИТ</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#university"/>
+        <NamedIndividual IRI="#Tolganay_Chinibayeva_Temirbolatkyzy"/>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">НГУ(РФ)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#countsOfScientificWorks"/>
+        <NamedIndividual IRI="#Дузбаев_Нуржан_Токкужаевич"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">4</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasArticle"/>
+        <NamedIndividual IRI="#Дузбаев_Нуржан_Токкужаевич"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Erasmus+: ACADEMICA - Accessibility and Harmonization of Higher Education in Central Asia through Curriculum Modernization and Development</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasArticle"/>
+        <NamedIndividual IRI="#Дузбаев_Нуржан_Токкужаевич"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Establishment of training and research centers and Courses development on Intelligent BigData Analysis in CA</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasArticle"/>
+        <NamedIndividual IRI="#Дузбаев_Нуржан_Токкужаевич"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">FP7: DEGISCO - Desktop Grids for International Scientific Collaboration</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#university"/>
+        <NamedIndividual IRI="#Дузбаев_Нуржан_Токкужаевич"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">MSc, BSc прикладная математика (КазНУ им. аль-Фараби)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#university"/>
+        <NamedIndividual IRI="#Дузбаев_Нуржан_Токкужаевич"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">PhD in computing (King’s College London, Великобритания)</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#university"/>
+        <NamedIndividual IRI="#Козина_Людмила_Александровна"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Алматинский Университет Энергетики и Связи (АУЭС)- Вычислительная техника и программное обеспечение, бакалавр, красный диплом</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#university"/>
+        <NamedIndividual IRI="#Козина_Людмила_Александровна"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Международный Университет Информационных Технологий (МУИТ)- Вычислительная техника и программное обеспечение, магистр</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#university"/>
+        <NamedIndividual IRI="#Козина_Людмила_Александровна"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Московский Энергетический Институт (НИУ МЭИ) - Экономика, бакалавр, красный диплом</Literal>
+    </DataPropertyAssertion>
+    <EquivalentObjectProperties>
+        <ObjectProperty IRI="#hasBooks"/>
+        <ObjectProperty IRI="#hasMagazines"/>
+    </EquivalentObjectProperties>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasArticle"/>
+        <Class IRI="#People"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasArticle"/>
+        <Class IRI="#Works"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasBooks"/>
+        <Class IRI="#Works"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasDegree"/>
+        <Class IRI="#People"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasMagazines"/>
+        <Class IRI="#Works"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasWorks"/>
+        <Class IRI="#People"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#theme_of_work"/>
+        <Class IRI="#People"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#worksIn"/>
+        <Class IRI="#Professor"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasArticle"/>
+        <Class IRI="#IT"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasDegree"/>
+        <Class IRI="#Degree"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasWorks"/>
+        <Class IRI="#Works"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#theme_of_work"/>
+        <Class IRI="#IT"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#worksIn"/>
+        <Class IRI="#work_place"/>
+    </ObjectPropertyRange>
+    <DisjointObjectProperties>
+        <ObjectProperty IRI="#hasArticle"/>
+        <ObjectProperty IRI="#hasBooks"/>
+        <ObjectProperty IRI="#hasMagazines"/>
+    </DisjointObjectProperties>
+    <EquivalentDataProperties>
+        <DataProperty IRI="#hasBooks"/>
+        <DataProperty IRI="#hasMagazines"/>
+    </EquivalentDataProperties>
+    <DataPropertyDomain>
+        <DataProperty IRI="#countsOfScientificWorks"/>
+        <Class IRI="#People"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#dateOfBirth"/>
+        <Class IRI="#People"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#date_of_defence"/>
+        <Class IRI="#Student"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#professorID"/>
+        <Class IRI="#Professor"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#school"/>
+        <Class IRI="#People"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#studentID"/>
+        <Class IRI="#Student"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#university"/>
+        <Class IRI="#People"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="#countsOfScientificWorks"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#dateOfBirth"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#date_of_defence"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasArticle"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasBooks"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasMagazines"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#professorID"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#school"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#studentID"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#university"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
